@@ -7,3 +7,4 @@ Pillow
 pytesseract
 opencv-python-headless
 numpy
+PyMuPDF  
