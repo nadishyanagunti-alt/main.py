@@ -5,3 +5,5 @@ gTTS
 SpeechRecognition
 Pillow
 pytesseract
+opencv-python-headless
+numpy
